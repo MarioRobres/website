@@ -20,4 +20,4 @@ The following issues have been solved in 7.2.1:
 * Fix race condition in `oneflow` server in cancel actions [#7570](https://github.com/OpenNebula/one/issues/7570).
 * Fix S3 marketplace SIGNATURE_VERSION parameter hardcoded to s3 [7437](https://github.com/OpenNebula/one/issues/7437).
 * Fix race condition in `oneflow` server in cancel actions [#7570](https://github.com/OpenNebula/one/issues/7570)
-
+* Fix onevntemplate instantiate so shared vNet and address range options can be set independently from the CLI [#6](https://github.com/OpenNebula/one/issues/6).
