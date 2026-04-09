@@ -23,6 +23,8 @@ The OpenNebula team is excited to announce the availability of the **OpenNebula 
 
 ## API and CLI
 
+- Fix onevntemplate instantiate so shared vNet and address range options can be applied independently to each object.
+
 ## KVM
 
 ## LXC
@@ -36,4 +38,3 @@ The OpenNebula team is excited to announce the availability of the **OpenNebula 
 Additionally, the following functionalities are present that were not in OpenNebula 7.2.0, although they debuted in subsequent maintenance releases of the 7.2.x series:
 
 ## Other Issues Solved
-
