@@ -21,3 +21,4 @@ The following issues have been solved in 7.2.1:
 * Fix S3 marketplace SIGNATURE_VERSION parameter hardcoded to s3 [7437](https://github.com/OpenNebula/one/issues/7437).
 * Fix race condition in `oneflow` server in cancel actions [#7570](https://github.com/OpenNebula/one/issues/7570)
 * Fix onevntemplate instantiate to apply shared `name`, `vlan_id`, and `vn_mad` options independently to the vNet and address range [#6](https://github.com/OpenNebula/one/issues/6).
+* Fix network lease leakage when VM deployment fails and is retried by the scheduler [#7](https://github.com/OpenNebula/one/issues/7).
