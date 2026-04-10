@@ -14,6 +14,7 @@ The OpenNebula team is excited to announce the availability of the **OpenNebula 
 
 
 ## OpenNebula Core
+Fix network lease leakage when VM deployment fails and is retried by the scheduler.
 
 ## Storage & Backups
 
