@@ -16,6 +16,7 @@ The OpenNebula team is excited to announce the availability of the **OpenNebula 
 ## OpenNebula Core
 
 ## Storage & Backups
+* [Added the sharedfs datastore driver to manage directory-based images on shared filesystems and expose them to VMs through virtiofs.](../../../product/cluster_configuration/storage_system/virtiofs_ds).
 
 ## Networking
 
