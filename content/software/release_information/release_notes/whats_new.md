@@ -37,3 +37,4 @@ Fix onevntemplate instantiate to apply shared `name`, `vlan_id`, and `vn_mad` op
 Additionally, the following functionalities are present that were not in OpenNebula 7.2.0, although they debuted in subsequent maintenance releases of the 7.2.x series:
 
 ## Other Issues Solved
+* [Fix VM deployment rollback to release reserved network leases when scheduler deployment fails.](https://github.com/OpenNebula/one/issues/7).
